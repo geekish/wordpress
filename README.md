@@ -7,7 +7,7 @@ Heavily inspired by/based upon [Bedrock](//roots.io/bedrock).
 Via [Composer](//getcomposer.org):
 
 ```bash
-composer create-project geekish/wordpress my-project-name --repository-url=https://github.com/geekish/wordpress.git
+composer create-project geekish/wordpress my-project-name
 ```
 
 ## Usage
