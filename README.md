@@ -1,4 +1,4 @@
-# WordPress
+# WordPress project skeleton
 
 Heavily inspired by/based upon [Bedrock](//roots.io/bedrock).
 
@@ -7,13 +7,13 @@ Heavily inspired by/based upon [Bedrock](//roots.io/bedrock).
 Via [Composer](//getcomposer.org):
 
 ```bash
-composer create-project geekish/wordpress my-project-name
+composer create-project geekish/wordpress my-project-name --repository-url=https://github.com/geekish/wordpress.git
 ```
 
 ## Usage
 
-Copy or rename .env.dist to .env and fill out database credentials, etc.
-Visit the URL you provided as WP_HOME and install WordPress.
+Copy or rename `.env.dist` to `.env` and fill out database credentials, etc.
+Visit the URL you provided as `WP_HOME` and install WordPress.
 
 ## License
 
