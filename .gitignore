@@ -1,0 +1,17 @@
+.git/
+public/content/mu-plugins/*
+public/content/mu-plugins/!.gitkeep
+public/content/plugins/*
+public/content/plugins/!.gitkeep
+public/content/themes/*
+public/content/themes/!.gitkeep
+public/content/upgrade/*
+public/content/upgrade/!.gitkeep
+public/content/uploads/*
+public/content/uploads/!.gitkeep
+public/core/*
+vendor/
+!.gitkeep
+
+# I recommend committing this in actual application repositories.
+composer.lock
