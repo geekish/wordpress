@@ -12,10 +12,10 @@
     ],
     "require": {
         "filp/whoops": "^2.1",
-        "johnpbloch/wordpress": "^4.5",
+        "johnpbloch/wordpress": "^4.7",
         "josegonzalez/dotenv": "^2.0",
-        "wp-cli/wp-cli": "^0.23",
-        "wpackagist-theme/twentysixteen": "^1.2"
+        "wp-cli/wp-cli": "^1.0",
+        "wpackagist-theme/twentysixteen": "^1.3"
     },
     "require-dev": {
         "wpackagist-plugin/developer": "*",
@@ -26,6 +26,9 @@
         "psr-4": {
             "Geekish\\WordPress\\": "src"
         }
+    },
+    "config": {
+        "sort-packages": true
     },
     "extra": {
         "installer-paths": {
