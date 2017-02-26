@@ -9,7 +9,7 @@ public/content/upgrade/*
 public/content/upgrade/!.gitkeep
 public/content/uploads/*
 public/content/uploads/!.gitkeep
-public/core/*
+public/core
 vendor/
 !.gitkeep
 
