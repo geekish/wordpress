@@ -12,10 +12,10 @@
   ],
   "require": {
     "filp/whoops": "^2.1",
-    "johnpbloch/wordpress": "^4.9",
+    "johnpbloch/wordpress": "^5.0",
     "josegonzalez/dotenv": "^2.0",
     "wp-cli/wp-cli": "^1.4",
-    "wpackagist-theme/twentyseventeen": "^1.4"
+    "wpackagist-theme/twentynineteen": "^1.1"
   },
   "require-dev": {
     "wpackagist-plugin/developer": "*",
